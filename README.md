@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JAB47
+- 👋 Hi, I’m Jason Bangie, user name @JAB47
 - 👀 I’m interested in becoming a software engineer 
 - 🌱 I’m currently learning full-stack software engineering 
 - 💞️ I’m looking to collaborate on becoming a better engineer and building new and improved technology to better peoples lives 
